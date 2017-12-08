@@ -8,13 +8,8 @@ This project requires Twitter API keys and tokens. Get your credentials - https:
 
 # Usage
 
-Add your keys and tokens in place of '...': 
-var T = new Twit({
-  consumer_key:         '...',
-  consumer_secret:      '...',
-  access_token:         '...',
-  access_token_secret:  '...',
-})
+Add your keys and tokens in place of '...' in automator.js 
 
 npm install
+
 node automator.js
