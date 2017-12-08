@@ -8,7 +8,7 @@ This project requires Twitter API keys and tokens. Get your credentials - https:
 
 # Usage
 
-Add your keys and tokens: 
+Add your keys and tokens in place of '...': 
 var T = new Twit({
   consumer_key:         '...',
   consumer_secret:      '...',
