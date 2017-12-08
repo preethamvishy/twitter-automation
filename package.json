@@ -1,0 +1,22 @@
+{
+  "name": "twitter-automation",
+  "version": "1.0.0",
+  "description": "A NodeJS project using twit to automate twitter tasks",
+  "main": "automate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethamvishy/twitter-automation.git"
+  },
+  "author": "Preetham Viswanathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preethamvishy/twitter-automation/issues"
+  },
+  "homepage": "https://github.com/preethamvishy/twitter-automation#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
