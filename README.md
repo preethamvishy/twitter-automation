@@ -3,10 +3,10 @@ A NodeJS project to automate your twitter account to perform tasks like expressi
 
 This project uses the twit Twitter API client by ttezel - https://github.com/ttezel/twit
 
-#Pre-requisites
+# Pre-requisites
 This project requires Twitter API keys and tokens. Get your credentials - https://apps.twitter.com/.
 
-#Usage
+# Usage
 
 Add your keys and tokens: 
 var T = new Twit({
