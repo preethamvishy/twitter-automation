@@ -1,15 +1,11 @@
 # twitter-automation
 A NodeJS project to automate your twitter account to perform tasks like expressing gratitude to a new follower via direct message/@reply or following back new followers. 
 
-This project uses the twit Twitter API client by ttezel - https://github.com/ttezel/twit
-
-# Pre-requisites
-This project requires Twitter API keys and tokens. Get your credentials - https://apps.twitter.com/.
-
 # Usage
+This project requires Twitter API keys and tokens. Get your credentials from [Twitter](https://apps.twitter.com/).
 
-Add your keys and tokens in place of '...' in automator.js 
+1. Add your keys and tokens in automator.js 
+2. `npm install`
+3. `node automator.js`
 
-npm install
-
-node automator.js
+This project uses the [Twit](https://github.com/ttezel/twit) Twitter API client by ttezel.
